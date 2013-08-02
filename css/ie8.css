@@ -1,0 +1,33 @@
+/**********************************************
+3. Search box
+**********************************************/
+
+.search {
+	position:absolute;
+	right:0;
+	top:5px;
+	width:230px;
+	border:3px solid grey;
+	background:url(../img/search.png) no-repeat 6px 5px;
+	background-color:#ffffff;
+	padding:1px;
+}
+
+.search-field {
+	border:1px solid #ffffff;
+	margin-left:32px;
+	margin-top:3px;
+	color:#999999;
+	width:136px;
+	
+}
+
+.submit-button { 
+    background: url(../img/search-btn.png) no-repeat;
+    width: 52px;
+    height: 22px;
+    border: none;
+    text-indent:-100000px;
+    margin-top:0px;
+    cursor:pointer;
+}
