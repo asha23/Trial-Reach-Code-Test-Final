@@ -7,7 +7,7 @@ Include in the README.md any assumptions you've made, any key design choices you
 
 ################################################# 
 
-The project took 2 hours to create with a further 1.5 hours for browser testing.
+The project took 2 hours to create with a further 20 mins for minor IE bug fixes
 
 I have assumed that due to there not being any javascript in this project that HTML5 markup would not render correctly in unsupported browsers. This would require perhaps the modernizr library.
 
